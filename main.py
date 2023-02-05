@@ -31,7 +31,7 @@ class Cat:
             print("nya...")
             print("ДЕД")
             self.alife = False
-        elif self.gladness <= 20:
+        elif self.gladness < -20:
             print("myaunia...")
             print("ДЕД")
             self.alife = False
